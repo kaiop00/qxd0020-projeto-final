@@ -1,4 +1,4 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Alocação  de Apartamentos em Quixadá
 
 
 Para realização do trabalho final foi pensado em desenvolver uma plataforma que facilite alunos de outras cidades e regiões diferentes de Quixada para poder conhecer e alugar apartamento. Primordialmente o sistema ira contar a possibilidade de adicionar, remover, editar os apartamentos para seus respectivos login’s. O usuário tem a possibilidade de adicionar um anuncio para possíveis apartamentos como também terá acesso ao feed com os apartamentos adicionados por outras pessoas. O usuário só poderá ter acesso a parte de reserva do apartamento ou cadastrar um novo apartamento somente se estiver logado com uma conta valida.  O usuário tem a possibilidade de fazer a oferta com todas as informações que do apartamentos, como localização, ponto de ônibus mais próximo, quantidade de quartos, entre outros. Esse possível usuário poderá ter acesso sem estar logado ao feed podendo logar com uma conta para fazer a reserva do apartamento ou um anúncio. Para fazer a manutenção do site um login de um administrador com acesso a todos os dados do site para possíveis manutenções deve ser criado. 
@@ -6,6 +6,7 @@ Para realização do trabalho final foi pensado em desenvolver uma plataforma qu
 ## :technologist: Membros da equipe
 
 Antonio Kaio Elias Portela- 495707- Engenharia de Software 
+Marcos Vinicius de Sousa Lima- 473259- Engenharia da Computação 
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
